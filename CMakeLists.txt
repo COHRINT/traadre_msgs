@@ -12,12 +12,16 @@ find_package(catkin REQUIRED
 add_message_files(
   FILES
   Steering.msg
+  FuelLevel.msg
 )
 
 add_service_files(
   FILES
   GetGoalList.srv
   SetCurrentGoal.srv
+  Teleport.srv
+  SetFuelLevel.srv
+  ShowToast.srv
 )
 
 #catkin_python_setup()
