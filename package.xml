@@ -1,0 +1,26 @@
+<package>
+    <name>traadre_msgs</name>
+    <version>1.12.7</version>
+    <description>
+      Common messages for the TRAADRE project
+      
+    </description>
+    <author>Steve McGuire</author>
+
+    <maintainer email="stephen.mcguire@colorado.edu">Steve McGuire</maintainer>
+    <url>http://wiki.ros.org/map_server</url>
+    <license>BSD</license>
+
+    <buildtool_depend version_gte="0.5.68">catkin</buildtool_depend>
+
+    <build_depend>nav_msgs</build_depend>
+    <build_depend>geometry_msgs</build_depend>
+    <build_depend>std_msgs</build_depend>
+
+    <run_depend>nav_msgs</run_depend>
+    <run_depend>geometry_msgs</run_depend>
+    <run_depend>std_msgs</run_depend>
+    <run_depend>message_runtime</run_depend>
+
+    <test_depend>rospy</test_depend>
+</package>
