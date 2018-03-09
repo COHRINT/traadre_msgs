@@ -1,2 +1,2 @@
-uint16 fuelLevel
+float32 fuelLevel
 ---

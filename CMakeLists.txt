@@ -12,7 +12,7 @@ find_package(catkin REQUIRED
 add_message_files(
   FILES
   Steering.msg
-  FuelLevel.msg
+  RobotState.msg
 )
 
 add_service_files(
