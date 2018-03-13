@@ -1,2 +1,2 @@
-geometry_msgs/Pose2D dest
+geometry_msgs/PoseStamped dest
 ---
