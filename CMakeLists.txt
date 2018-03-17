@@ -14,6 +14,7 @@ add_message_files(
   Steering.msg
   RobotState.msg
   NamedGoal.msg
+  part_id.msg
 )
 
 add_service_files(
