@@ -1,4 +1,4 @@
 Header header
-geometry_msgs/Pose2D pose
+geometry_msgs/Pose pose
 geometry_msgs/Twist  vel
 float32 fuel
