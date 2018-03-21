@@ -15,7 +15,7 @@ add_message_files(
   RobotState.msg
   NamedGoal.msg
   part_id.msg
-  goal_complete.msg
+  GoalComplete.msg
 )
 
 add_service_files(
