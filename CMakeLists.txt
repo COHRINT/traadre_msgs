@@ -16,6 +16,7 @@ add_message_files(
   NamedGoal.msg
   part_id.msg
   GoalComplete.msg
+  Callout.msg
 )
 
 add_service_files(
