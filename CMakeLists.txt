@@ -17,6 +17,7 @@ add_message_files(
   part_id.msg
   GoalComplete.msg
   Callout.msg
+  Policy.msg
 )
 
 add_service_files(
