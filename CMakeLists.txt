@@ -18,6 +18,7 @@ add_message_files(
   GoalComplete.msg
   Callout.msg
   Policy.msg
+  OptionSelect.msg
 )
 
 add_service_files(
