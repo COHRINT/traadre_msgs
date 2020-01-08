@@ -27,6 +27,7 @@ add_service_files(
   Teleport.srv
   SetFuelLevel.srv
   ShowToast.srv
+  GetMCSims.srv
 )
 
 #catkin_python_setup()
