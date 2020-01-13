@@ -29,6 +29,7 @@ add_service_files(
   SetFuelLevel.srv
   ShowToast.srv
   GetMCSims.srv
+  GetPaths.srv
 )
 
 #catkin_python_setup()
