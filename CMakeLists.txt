@@ -19,6 +19,7 @@ add_message_files(
   Callout.msg
   Policy.msg
   OptionSelect.msg
+  pythonList.msg
 )
 
 add_service_files(
