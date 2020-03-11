@@ -20,6 +20,7 @@ add_message_files(
   Policy.msg
   OptionSelect.msg
   pythonList.msg
+  Survey.msg
 )
 
 add_service_files(
