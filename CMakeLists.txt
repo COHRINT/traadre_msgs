@@ -32,6 +32,9 @@ add_service_files(
   ShowToast.srv
   GetMCSims.srv
   GetPaths.srv
+  GetResults.srv
+  Bins.srv
+  GetPerf.srv
 )
 
 #catkin_python_setup()
