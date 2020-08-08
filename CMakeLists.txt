@@ -21,6 +21,10 @@ add_message_files(
   OptionSelect.msg
   pythonList.msg
   Survey.msg
+  Hazard.msg
+  Mouse.msg
+  PrevTraverse.msg
+  TraverseDecision.msg
 )
 
 add_service_files(
