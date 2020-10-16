@@ -39,6 +39,7 @@ add_service_files(
   GetResults.srv
   Bins.srv
   GetPerf.srv
+  SetCurrentHazard.srv
 )
 
 #catkin_python_setup()
