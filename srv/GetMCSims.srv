@@ -1,4 +1,5 @@
 string id
 ---
-float32[] rewards
+float32[] mcts_rewards
+float32[] vi_rewards
 int32[] results
